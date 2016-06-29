@@ -1,0 +1,12 @@
+@import "compass/reset";
+@import "compass/css3";
+
+html,
+body,
+.page,
+.page-sliders,
+.page-sliders__item{
+  overflow: hidden;
+  width:100%;
+  height: 100%;
+}
