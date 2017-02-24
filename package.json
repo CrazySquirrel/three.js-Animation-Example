@@ -1,0 +1,10 @@
+{
+  "name": "Three.js Animation Example",
+  "version": "1.0.25",
+  "author": "Sergey Yastrebov <info@crazysquirrel.ru>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:CrazySquirrel/three.js-Animation-Example.git"
+  }
+}
