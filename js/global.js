@@ -116,7 +116,7 @@ scene.add( mesh );
 
 var loader = new THREE.SVGLoader();
 
-loader.load('/images/webprofy.svg', function (svgObject) {
+loader.load('images/webprofy.svg', function (svgObject) {
     var path = svgObject.getElementsByTagName("path");
 
     var material = new THREE.MeshLambertMaterial({
